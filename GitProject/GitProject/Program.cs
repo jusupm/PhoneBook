@@ -1,0 +1,14 @@
+﻿namespace GitProject
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            Phone phone= new Phone();
+            phone.Call("Mario");
+            phone.Call("Tihomir");
+            Console.ReadLine();
+        }
+    }
+}
