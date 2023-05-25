@@ -11,7 +11,7 @@ namespace GitProject
         private string Name { get; set; }
         public void Call(string person)
         {
-            Console.WriteLine($"Calling {person}!");
+            Console.WriteLine($"Calling {persons}!");
         }
     }
 }
