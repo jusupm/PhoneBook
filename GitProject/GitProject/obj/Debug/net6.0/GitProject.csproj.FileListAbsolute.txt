@@ -1,0 +1,15 @@
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\bin\Debug\net6.0\GitProject.exe
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\bin\Debug\net6.0\GitProject.deps.json
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\bin\Debug\net6.0\GitProject.runtimeconfig.json
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\bin\Debug\net6.0\GitProject.dll
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\bin\Debug\net6.0\GitProject.pdb
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\obj\Debug\net6.0\GitProject.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\obj\Debug\net6.0\GitProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\obj\Debug\net6.0\GitProject.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\obj\Debug\net6.0\GitProject.AssemblyInfo.cs
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\obj\Debug\net6.0\GitProject.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\obj\Debug\net6.0\GitProject.dll
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\obj\Debug\net6.0\refint\GitProject.dll
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\obj\Debug\net6.0\GitProject.pdb
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\obj\Debug\net6.0\GitProject.genruntimeconfig.cache
+C:\Users\Mario\Desktop\Mono bootcamp\GitProject\GitProject\GitProject\obj\Debug\net6.0\ref\GitProject.dll
